@@ -67,8 +67,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:https://twitter.com/KenjiHilasak
-  username               :KenjiHilasak
+twitter:
+  username               :
 facebook:https://www.facebook.com/Luis.Kenj
   username               :Luis.Kenj
   app_id                 :
