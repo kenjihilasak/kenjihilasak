@@ -9,15 +9,15 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kenji Hilasaca"
-title_separator          : "-"
-name                     : "Luis Kenji"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+title                    : "Kenji Hilasaca Sanchez"
+title_separator          : "pagina personal|Kenji Hilasaca "
+name                     : "Kenji Hilasaca"
+description              : "B.Sc. Ingeniería Mecatrónica."
+url                      : "https://kenjihilasak.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/blog"# the subpath of your site, e.g. "/blog"
+repository               :  "kenjihilasak/kenjihilasak.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : /assets/images/500x300.png# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
